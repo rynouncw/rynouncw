@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rynouncw!
-- 👀 I’m interested in Cybersecurity, python programming, and networking
+- 👀 I’m interested in cybersecurity, python programming, and networking.
 - 🌱 I’m currently studying for the CompTIA CySA+.  I passed the CompTIA Security + in Sepetmber of 2021.
 - 📫 How to reach me:  rynouncw@gmail.com or on Twitter:  @rynouncw
 
