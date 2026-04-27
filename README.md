@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rynouncw and WELCOME to my GitHub!
 - 👀 My current interests include cybersecurity, python programming, networking, and web development.  
 - 🏭 In my home lab, I have products from pfSense, Graylog, Cisco, Unifi(Ubiquity), Apple, Microsoft, Sonos, TrueNas, Gigabyte, and more!
-- 🌱 I’m currently studying for the CompTIA CySA+.  I passed the CompTIA Security + in Sepetmber of 2021.
+- 🌱 I’m currently studying for the CompTIA CySA+.  I passed the CompTIA Security + in Sepetmber of 2021, and renewed it in September 0f 2024 (valid through September of 2027).
 - 📫 How to reach me:  rynouncw@gmail.com or ryan@mansbery.com, on Twitter:  @rynouncw, on LinkedIn: https://www.linkedin.com/in/ryan-mansbery/
 
 <!---
